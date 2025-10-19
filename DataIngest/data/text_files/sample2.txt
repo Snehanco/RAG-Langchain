@@ -1,0 +1,8 @@
+This is the content of sample text file two. It provides additional example text for testing.
+
+    Natural Language Processing (NLP) is a subfield of artificial intelligence that focuses on the interaction between computers and human language. The goal of NLP is to enable computers to understand, interpret, and generate human language in a way that is valuable. NLP encompasses a variety of tasks, including:
+Tokenization: Breaking down text into smaller units, such as words or sentences.
+Part-of-Speech Tagging: Identifying the grammatical parts of speech (nouns, verbs, adjectives, etc.) in a sentence.
+Named Entity Recognition (NER): Detecting and classifying named entities (people, organizations, locations, etc.) in text.
+Sentiment Analysis: Determining the sentiment or emotional tone of a piece of text (positive, negative, neutral).
+Machine Translation: Automatically translating text from one language to another.
