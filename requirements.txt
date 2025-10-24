@@ -8,3 +8,6 @@ chromadb
 sentence-transformers
 pypdf
 python-dotenv
+python-docx
+docx2txt
+unstructured[docx]
