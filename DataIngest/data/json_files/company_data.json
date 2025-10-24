@@ -1,0 +1,78 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "role": "Engineer",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis"
+      ],
+      "projects": [
+        {
+          "name": "Project A",
+          "duration_months": 6
+        },
+        {
+          "name": "Project B",
+          "duration_months": 12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "role": "Designer",
+      "skills": [
+        "UI/UX",
+        "Graphic Design"
+      ],
+      "projects": [
+        {
+          "name": "Project C",
+          "duration_months": 4
+        },
+        {
+          "name": "Project D",
+          "duration_months": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "role": "Product Manager",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Leadership"
+      ],
+      "projects": [
+        {
+          "name": "Project E",
+          "duration_months": 10
+        },
+        {
+          "name": "Project F",
+          "duration_months": 14
+        }
+      ]
+    }
+  ],
+  "departments": {
+    "Engineering": {
+      "head": "Diana",
+      "budget": 500000
+    },
+    "Design": {
+      "head": "Ethan",
+      "budget": 200000
+    },
+    "Product": {
+      "head": "Fiona",
+      "budget": 300000
+    }
+  }
+}
